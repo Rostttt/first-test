@@ -4,7 +4,7 @@ import java.util.List;
 import java.util.ListIterator;
 /* Задание минимум преоплределить методы void add(Object o,int index), void sort(),
 void concat(MyArrayList<T> newList), boolean delete(int index), T get(int index), int size() */
-// пытаюсь загрузть файл на гит через Idea + зменение в 22:46, еще изменение в 23:10
+// пытаюсь загрузть файл на гит через Idea + зменение в 22:46, еще изменение в 23:10 еще изменение в 23:31 через Идеа
 
 public class RostNewArrayList implements List {
     @Override
